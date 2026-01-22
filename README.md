@@ -78,7 +78,7 @@ I built a compensation analytics model that went beyond simple averages. Using P
 ## Tech Stack & Methodology
 * **Data Modeling:** Designed a schema to handle HR data, and enabled Row-Level Security (RLS) simulation by Department.
 * **Statistical Analysis:** Used DAX iterators (`SUMX`, `AVERAGEX`) to calculate **Adjusted Pay Gaps** comparing men and women *within* the same job level rather than globally.
-* **Visualization:** Scatter plots with trend lines to visualize the correlation between Performance Rating and Salary.
+* **Visualization:** Scatter plots to visualize the correlation between Performance Rating and Salary.
 
  ![Star schema](images/star_schema.jpg)
      *(Snapshot of the star schema)*
