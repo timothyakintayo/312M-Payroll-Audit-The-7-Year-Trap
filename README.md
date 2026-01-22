@@ -16,7 +16,7 @@ A 2,000-person European workforce with a $312M payroll was facing a compliance d
 But compliance wasn't the real problem.
 The real problems were:
 * Tenure data: Employees stuck at "Entry Level" for 7+ years. The company had experienced professionals artificially capped in junior salary bands. 
-* An IT Director earning $415K annually with a performance rating of 2. The company was not paying for performance. 
+* An IT Director earning $414K annually with a performance rating of 2. The company was not paying for performance. 
 
 I was brought in to audit the entire compensation structure before regulators, employees, or the public did it for the company.
 
@@ -57,8 +57,8 @@ I built a compensation analytics model that went beyond simple averages. Using P
 * **The recommendation:** Trigger a proactive salary adjustments for the director level and entry level salaries globally where there is disparity (salary gaps), and investigate departmental and job level disparity for necessary salary adjustments to ensure departmental and job level salary equity.
 
 
-3. The **$415K** Question: Are We Paying for Performance or Seniority?
-* **What I found:** The company's 3rd-highest earner, an IT Director commanding $415K had a performance rating of 2 out of 5, which is below the global performance average of 3.24. Meanwhile, high-performers in Sales and Operations were less.
+3. The **$414K** Question: Are We Paying for Performance or Seniority?
+* **What I found:** The company's 3rd-highest earner, an IT Director commanding $414K had a performance rating of 2 out of 5, which is below the global performance average of 3.24. Meanwhile, high-performers in Sales and Operations were less.
 * **Why this matters:** If the company's top earners aren't its top performers, it means the compensation model is broken. This implies the following:
 	- Rewarding the wrong people (budget misallocation)
 	- Paying for tenure instead of results.
@@ -98,9 +98,9 @@ DIVIDE( (Avg_Male - Avg_Female), Avg_Male, 0 )
 ## Row-Level Security (RLS) Filter
 I implemented a Row-Level Security (RLS) Filter on the department. A specific role was created for the IT manager this enables every department head to be able to view only information for their respective departments.
 
-![Row Level Security](images/rls_demo.jpg)
+ ![Row Level Security](images/rls_demo.png)
 
-![Row Level Security Output](images/rls_demo_output.jpg)
+ ![Row Level Security Output](images/rls_demo_output.png)
 *(Snapshot: Row Level Security filter and output to the report)*
 
 
