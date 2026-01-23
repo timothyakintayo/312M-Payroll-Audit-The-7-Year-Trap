@@ -30,7 +30,7 @@ I was brought in to audit the entire compensation structure before regulators, e
 ---
 
 ## My Approach
-I built a compensation analytics model that went beyond simple averages. Using Power Query for data cleaning and DAX for statistical analysis, I created a framework that could:
+I built a compensation analytics model that went beyond simple averages. Using Power Query for data cleaning and DAX for analysis, I created a framework that could:
 
 * Isolate true pay inequity by comparing men and women within the same job level (not just globally).
 * Map tenure against job architecture to find promotion bottlenecks.
@@ -40,19 +40,17 @@ I built a compensation analytics model that went beyond simple averages. Using P
 
 ## Critical Findings
 1. The 7-Year Trap: When "Entry Level" Becomes a Life Sentence:
-* **What I found:** Employees with 7+ years of tenure still classified as "Entry Level", not isolated cases, but a systemic pattern across multiple departments.
-* **Why this matters:** These aren't recent graduates. They're institutional knowledge holders, process experts, and informal leaders who've been artificially capped at the bottom of the pay scale. This isn't compression, it's systematic undervaluation.
+* **What I found:** Employees with 7+ years of tenure still classified as "Entry Level".
 * **The human cost:** Imagine working somewhere for seven years, mastering your role, training new hires, and watching those new hires get promoted past you because you're trapped in a job architecture that doesn't recognize your growth.
-* **The business cost:** Every one of these employees is a retention bomb. The moment a recruiter reaches out on LinkedIn with a "Senior" title and a 30% raise, they're gone, and they'll take their knowledge with them, leading to attrition for the company.
+* **The business cost:** Every one of these employees is a retention bomb. The moment a recruiter reaches out on LinkedIn with a "Senior" title and a 30% raise, they're gone, and they'll take their knowledge with them, which is cost disadvantageous for the company when you factor in recruitment process, cost of recruitment and projected time it will take for new hirers to attain their level of expertise.
 
 * The recommendation:
 	- **Immediate Job Architecture Audit:** Re-level every employee with 5+ years at Entry Level.
 	- **Budget requirement:** Do a budget estimate of how much it would cost to increase these employees' salary.
-	- **ROI:** The cost of replacing these employees (recruitment, onboarding, knowledge loss) is potentially higher than the salary adjustment.
 
 2. Compliance Check: We're Safe (For Now)
 * **What I found:** Unadjusted gender pay gap of 1.92% which is well below the 5% EU threshold that triggers mandatory corrective action.
-* **Why this matters:** Poland's pay transparency laws require public disclosure starting in 2026. If we drift above 5%, we're not just non-compliant, we would become non-compliant, which will then become a recruitment disaster, and potential loss of our female talents.
+* **Why this matters:** Poland's pay transparency laws require public disclosure starting in 2026. If we drift above 5%, we're not just non-compliant, we would become non-compliant, which will then become a recruitment disaster, and potential loss of current and potential hires.
 * **The hidden risk:** The global average hides localized problems. When I analyzed by job level, and filtered by departments, the gender gap became visible across different levels. Departments where women earn higher than men. Specifically, in sales and operations women earned higher than men.
 * **The recommendation:** Trigger a proactive salary adjustments for the director level and entry level salaries globally where there is disparity (salary gaps), and investigate departmental and job level disparity for necessary salary adjustments to ensure departmental and job level salary equity.
 
