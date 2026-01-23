@@ -42,7 +42,7 @@ I built a compensation analytics model that went beyond simple averages. Using P
 1. The 7-Year Trap: When "Entry Level" Becomes a Life Sentence:
 * **What I found:** Employees with 7+ years of tenure still classified as "Entry Level".
 * **The human cost:** Imagine working somewhere for seven years, mastering your role, training new hires, and watching those new hires get promoted past you because you're trapped in a job architecture that doesn't recognize your growth.
-* **The business cost:** Every one of these employees is a retention bomb. The moment a recruiter reaches out on LinkedIn with a "Senior" title and a 30% raise, they're gone, and they'll take their knowledge with them, which is cost disadvantageous for the company when you factor in recruitment process, cost of recruitment and projected time it will take for new hirers to attain their level of expertise.
+* **The business cost:** Every one of these employees is a retention bomb. The moment a recruiter reaches out on LinkedIn with a "Senior" title and a 30% raise, they're gone, and they'll take their knowledge with them, which is cost disadvantageous for the company when you factor in recruitment process, cost of recruitment and projected time it will take for new hires to attain their level of expertise.
 
 * The recommendation:
 	- **Immediate Job Architecture Audit:** Re-level every employee with 5+ years at Entry Level.
