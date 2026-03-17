@@ -82,8 +82,7 @@ I built a compensation analytics model that went beyond simple averages. Using P
      *(Snapshot of the star schema)*
 ---
 
-## Code Highlight: Adjusted Gender Pay Gap
-To ensure fair comparison, I calculated the gap by iterating through specific Job Levels.
+## Code Highlight: Unadjusted Gender Pay Gap
 
 ```dax
 Adjusted Gender Pay Gap = 
